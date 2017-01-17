@@ -12,7 +12,7 @@ import (
 	"time"
 )
 
-const iso8601 = "20060102T15:04:05"
+const iso8601 = "2006-01-02T15:04:05+05:00"
 
 var (
 	// CharsetReader is a function to generate reader which converts a non UTF-8
